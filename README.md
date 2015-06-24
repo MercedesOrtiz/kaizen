@@ -1,0 +1,2 @@
+# kaizen
+Random coding
