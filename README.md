@@ -1,2 +1,2 @@
 # kaizen
-Random coding
+My first repository on GitHub
